@@ -142,19 +142,19 @@ Halaman Data Barang digunakan untuk menampilkan daftar persediaan barang. Halama
 
 ![Data Barang StockMate Sembako](Data%20barang.PNG)
 
-### 4.4 Halaman Barang Masuk
+### 4.4 Halaman Form Barang Masuk
 
 Halaman Barang Masuk dirancang untuk mencatat penambahan persediaan barang. Formulir terdiri dari pilihan nama barang, jumlah barang masuk, tanggal masuk, dan catatan opsional.
 
-![Barang Masuk StockMate Sembako](form%20barang%20masuk.PNG)
+![Form Barang Masuk StockMate Sembako](form%20barang%20masuk.PNG)
 
-### 4.5 Halaman Penjualan
+### 4.5 Halaman Transaksi Penjualan
 
 Halaman Penjualan digunakan untuk mencatat transaksi penjualan. Pengguna dapat memilih barang, menentukan jumlah, dan melihat rincian transaksi.
 
 Sistem direncanakan menghitung subtotal berdasarkan jumlah barang dikalikan harga satuan, kemudian menjumlahkan seluruh subtotal untuk memperoleh total pembayaran.
 
-![Penjualan StockMate Sembako](transaksi%20penjualan.PNG)
+![Transaksi Penjualan StockMate Sembako](transaksi%20penjualan.PNG)
 
 ### 4.6 Halaman Laporan Penjualan
 
