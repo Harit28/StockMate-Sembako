@@ -1,7 +1,7 @@
 # LAPORAN UJIAN TENGAH SEMESTER (UTS)
 # PERANCANGAN APLIKASI STOCKMATE SEMBAKO
 
-## Identitas Mahasiswa
+## Disusun Oleh :
 
 - Nama: Kustiawan Harit Kusuma
 - NIM : 2305101129
@@ -197,7 +197,8 @@ Berikut merupakan diagram struktur navigasi aplikasi stockmate sembako :
 
 Prototype dibuat menggunakan fitur Prototype pada Figma. Setiap menu utama dan navigasi bawah dihubungkan menggunakan interaksi On Tap dengan aksi Navigate to.
 
-Link prototype: [Masukkan link prototype Figma di sini]
+Link prototype: 
+[https://www.figma.com/proto/NZNqmCpf8fAB5ks0IsIICN/UI--UX-StockMate-Sembako?node-id=10-68&t=VTYWiH25QPLUYJjB-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A68]
 
 ---
 
@@ -205,7 +206,7 @@ Link prototype: [Masukkan link prototype Figma di sini]
 
 ### 6.1 Rencana Penyimpanan Data
 
-Pengelolaan data direncanakan menggunakan database lokal SQLite dengan Room sebagai lapisan akses database pada pengembangan Android.
+Pengelolaan data direncanakan menggunakan database lokal MYSQL dengan Room sebagai lapisan akses database pada pengembangan Android.
 
 Pendekatan tersebut dipilih agar data dapat disimpan langsung di perangkat dan fitur utama tetap dapat digunakan tanpa koneksi internet.
 
@@ -278,8 +279,6 @@ Pada rancangan awal, kamera, speaker, dan getaran merupakan fitur pendukung yang
 Berdasarkan hasil analisis dan perancangan, aplikasi StockMate Sembako dirancang sebagai solusi mobile untuk membantu pengelolaan persediaan barang dan pencatatan transaksi pada toko sembako.
 
 Rancangan mencakup lima halaman utama, yaitu Dashboard, Data Barang, Barang Masuk, Penjualan, dan Laporan Penjualan. Selain itu, telah dirancang struktur navigasi, kebutuhan fungsional dan nonfungsional, konsep manajemen data lokal, serta interaksi dengan perangkat keras smartphone.
-
-Pada tahap UTS, hasil pekerjaan berupa rancangan antarmuka dan prototype menggunakan Figma. Rancangan tersebut akan menjadi dasar dalam proses implementasi aplikasi Android pada tahap UAS.
 
 ---
 
