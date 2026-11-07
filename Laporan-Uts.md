@@ -180,7 +180,7 @@ Navigasi bawah juga disediakan agar pengguna dapat berpindah antarhalaman dengan
 
 ### 5.2 Diagram Struktur Navigasi
 Berikut merupakan diagram struktur navigasi aplikasi stockmate sembako :
-![Struktur Navigasi Stockmate](Strukur%20Navigasi.PNG)
+![Struktur Navigasi Stockmate](Struktur%20Navigasi.PNG)
 
 ### 5.3 Rancangan Alur Navigasi
 
