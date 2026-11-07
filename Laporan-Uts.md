@@ -206,7 +206,7 @@ Link prototype:
 
 ### 6.1 Rencana Penyimpanan Data
 
-Pengelolaan data direncanakan menggunakan database lokal MYSQL dengan Room sebagai lapisan akses database pada pengembangan Android.
+Pengelolaan data direncanakan menggunakan database lokal SQLite dengan Room sebagai lapisan akses database pada pengembangan Android.
 
 Pendekatan tersebut dipilih agar data dapat disimpan langsung di perangkat dan fitur utama tetap dapat digunakan tanpa koneksi internet.
 
