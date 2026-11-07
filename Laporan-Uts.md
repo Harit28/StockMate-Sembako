@@ -178,7 +178,11 @@ Halaman utama menyediakan akses menuju:
 
 Navigasi bawah juga disediakan agar pengguna dapat berpindah antarhalaman dengan lebih mudah.
 
-### 5.2 Rancangan Alur Navigasi
+### 5.2 Diagram Struktur Navigasi
+Berikut merupakan diagram struktur navigasi aplikasi stockmate sembako :
+![Struktur Navigasi Stockmate](Strukur%20Navigasi.PNG)
+
+### 5.3 Rancangan Alur Navigasi
 
 - Dashboard → Data Barang
 - Dashboard → Barang Masuk
