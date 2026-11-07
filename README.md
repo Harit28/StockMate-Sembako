@@ -32,11 +32,11 @@ Proyek ini dikembangkan sebagai tugas mata kuliah Pemrograman Bergerak. Pada tah
 ### 2. Data Barang
 ![Data Barang](Data%20barang.PNG)
 
-### 3. Barang Masuk
-![Barang Masuk](form%20barang%20masuk.PNG)
+### 3. Form Barang Masuk
+![Form Barang Masuk](form%20barang%20masuk.PNG)
 
-### 4. Penjualan
-![Penjualan](transaksi%20penjualan.PNG)
+### 4. Transaksi Penjualan
+![Transaksi Penjualan](transaksi%20penjualan.PNG)
 
 ### 5. Laporan Penjualan
 ![Laporan Penjualan](laporan%20penjualan.PNG)
